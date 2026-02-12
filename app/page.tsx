@@ -49,12 +49,16 @@ export default function Home() {
       </section>
 
       {/* About Section */}
-      <section className="py-20 px-4 bg-gray-900 text-center">
-        <h2 className="text-4xl font-bold mb-4">About Me</h2>
-        <p className="max-w-2xl mx-auto text-gray-300 text-lg">
-          I am a software engineering student at University of Lahore. I love building websites and learning modern web technologies like TypeScript, Next.js, and Tailwind CSS.
-        </p>
-      </section>
+      <section className="py-20 px-4 bg-gray-900 flex justify-center">
+  <div className="max-w-2xl text-center p-6 rounded-lg transition-all duration-500 hover:shadow-xl hover:bg-gradient-to-r from-pink-500 via-purple-500 to-blue-500 hover:text-white cursor-pointer">
+    <h2 className="text-3xl font-bold mb-4">About Me</h2>
+    <p>
+      I’m a passionate Software Engineering student learning modern web development.
+      I enjoy building interactive websites and improving my coding skills every day.
+    </p>
+  </div>
+</section>
+
 
       {/* Projects Section */}
       <section className="py-20 px-4 text-center">
