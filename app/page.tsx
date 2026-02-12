@@ -49,23 +49,15 @@ export default function Home() {
       </section>
 
       {/* About Section */}
-      <section className="py-20 px-4 bg-gray-900 flex justify-center">
-  <div className="max-w-2xl text-center p-6 rounded-lg
-                  bg-gradient-to-r from-gray-800 via-gray-900 to-gray-800
-                  text-white
-                  transition-all duration-1000 ease-in-out
-                  hover:from-pink-500 hover:via-purple-500 hover:to-blue-500
-                  hover:shadow-xl
-                  cursor-pointer">
+<section className="py-20 px-4 flex justify-center">
+  <div className="max-w-2xl text-center p-8 rounded-lg text-white cursor-pointer shadow-lg about-hover">
     <h2 className="text-3xl font-bold mb-4">About Me</h2>
-    <p>
+    <p className="text-lg">
       I’m a passionate Software Engineering student learning modern web development.
       I enjoy building interactive websites and improving my coding skills every day.
     </p>
   </div>
 </section>
-
-
 
       {/* Projects Section */}
       <section className="py-20 px-4 text-center">
