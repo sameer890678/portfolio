@@ -106,7 +106,7 @@ export default function Home() {
   className="flex items-center justify-center gap-2 px-4 py-3 rounded-full text-white text-xs font-semibold
              transform hover:scale-105 transition-all duration-300"
   style={{
-    background: "linear-gradient(to right, red, yellow, blue)"
+    background: "linear-gradient(to right, red, blue)"
   }}
 >
   <FaEnvelope size={14} />
