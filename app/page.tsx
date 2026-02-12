@@ -85,7 +85,7 @@ export default function Home() {
         background: "linear-gradient(to right, black, purple)"
       }}
     >
-      <FaGithub size={17} /> GitHub
+      <FaGithub size={17} />
     </a>
 
     {/* LinkedIn Button */}
@@ -98,27 +98,24 @@ export default function Home() {
         background: "linear-gradient(to right, blue, cyan)"
       }}
     >
-      <FaLinkedin size={17} /> LinkedIn
+      <FaLinkedin size={17} />
     </a>
     {/* Email Button */}
 <a
-  href="mailto:your-email@example.com"
+  href="mailto:maliksameer890678@gmail.com"
   className="flex items-center justify-center gap-2 px-4 py-2 rounded-full text-white text-xs font-semibold
              transform hover:scale-105 transition-all duration-300"
   style={{
-    background: "linear-gradient(to right, red, orange, yellow, green, blue)"
+    background: "linear-gradient(to right, red, yellow, blue)"
   }}
 >
-  <FaEnvelope size={14} /> Email Me
+  <FaEnvelope size={14} />
 </a>
 
 
   </div>
 </section>
-
-
-
-    </div>
+</div>
   );
 }
 
