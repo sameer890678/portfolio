@@ -100,36 +100,22 @@ export default function Home() {
     >
       <FaLinkedin size={17} /> LinkedIn
     </a>
-
-  </div>
-</section>
-
-{/* Contact Section */}
-<section className="py-21 px-125 bg-black-900 text-center">
-  <h2 className="text-4xl font-bold mb-6">Contact Me</h2>
-
-  <p className="flex items-center justify-center gap-2 text-gray-300 mb-2 text-lg">
-    <FaEnvelope size={20} className="text-purple-400" />
-    Email: <span className="text-purple-400">maliksameer890678@gmail.com</span>
-  </p>
-
- <p className="flex items-center justify-center gap-2 text-gray-300 mb-6 text-lg">
-  <FaPhone size={16} className="text-purple-400" />
-  Phone: <span className="text-purple-400">+92 336 8960365</span>
-</p>
-
+    {/* Email Button */}
 <a
-  href="maliksameer890678@gmail.com"
-  className="flex items-center justify-center gap-2 px-5 py-3 rounded-full text-white text-xs font-semibold
+  href="mailto:your-email@example.com"
+  className="flex items-center justify-center gap-2 px-4 py-2 rounded-full text-white text-xs font-semibold
              transform hover:scale-105 transition-all duration-300"
   style={{
-    background: "linear-gradient(90deg, #9333ea, #f43f5e, #3b82f6, #10b981)"
+    background: "linear-gradient(to right, red, orange, yellow, green, blue)"
   }}
 >
   <FaEnvelope size={14} /> Email Me
 </a>
 
+
+  </div>
 </section>
+
 
 
     </div>
