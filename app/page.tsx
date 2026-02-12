@@ -115,11 +115,11 @@ export default function Home() {
 
  <p className="flex items-center justify-center gap-2 text-gray-300 mb-6 text-lg">
   <FaPhone size={16} className="text-purple-400" />
-  Phone: <span className="text-purple-400">+92 300 1234567</span>
+  Phone: <span className="text-purple-400">+92 336 8960365</span>
 </p>
 
 <a
-  href="mailto:sameer@example.com"
+  href="maliksameer890678@gmail.com"
   className="flex items-center justify-center gap-2 px-5 py-3 rounded-full text-white text-xs font-semibold
              transform hover:scale-105 transition-all duration-300"
   style={{
