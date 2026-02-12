@@ -46,3 +46,25 @@ body {
 .about-hover:hover {
   background-position: 100% 0;
 }
+
+* Tic Tac Toe hover gradient */
+.tictactoe-hover {
+  background: linear-gradient(90deg, #f97316, #8b5cf6, #3b82f6); /* orange → purple → blue */
+  background-size: 300% 300%;
+  transition: all 1.2s ease-in-out;
+}
+
+.tictactoe-hover:hover {
+  background-position: 100% 0;
+}
+
+/* Army Management hover gradient */
+.army-hover {
+  background: linear-gradient(90deg, #16a34a, #4d7c0f, #166534); /* shades of green */
+  background-size: 300% 300%;
+  transition: all 1.2s ease-in-out;
+}
+
+.army-hover:hover {
+  background-position: 100% 0;
+}
