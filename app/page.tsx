@@ -49,7 +49,7 @@ export default function Home() {
       </section>
 
       {/* About Section */}
-<section className="py-20 px-4 bg-gray flex justify-center">
+<section className="py-20 px-4 bg-gray-800 flex justify-center">
   <div className="max-w-2xl text-center p-8 rounded-lg text-white cursor-pointer shadow-lg about-hover">
     <h2 className="text-3xl font-bold mb-4">About Me</h2>
     <p className="text-lg">
