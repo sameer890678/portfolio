@@ -110,7 +110,7 @@ export default function Home() {
 
   <p className="flex items-center justify-center gap-2 text-gray-300 mb-2 text-lg">
     <FaEnvelope size={20} className="text-purple-400" />
-    Email: <span className="text-purple-400">sameer@example.com</span>
+    Email: <span className="text-purple-400">maliksameer890678@gmail.com</span>
   </p>
 
  <p className="flex items-center justify-center gap-2 text-gray-300 mb-6 text-lg">
