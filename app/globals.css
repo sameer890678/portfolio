@@ -61,11 +61,11 @@ body {
 
 /* Army Management hover gradient */
 .army-hover {
-  background: linear-gradient(90deg, #16a34a, #4d7c0f, #166534); /* shades of green */
-  background-size: 300% 300%;
-  transition: all 1.2s ease-in-out;
+  background: linear-gradient(270deg, #166534, #4d7c0f, #16a34a); /* shades of green */
+  background-size: 600% 600%; /* bigger size for smooth movement */
+  transition: all 1.5s ease-in-out; /* smooth animation */
 }
 
 .army-hover:hover {
-  background-position: 100% 0;
+  background-position: 100% 0; /* slide gradient on hover */
 }

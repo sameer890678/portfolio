@@ -72,12 +72,12 @@ export default function Home() {
 </div>
 
     {/* Army Management Project */}
-    <div className="p-6 rounded-lg text-white cursor-pointer shadow-lg army-hover max-w-sm">
-      <h3 className="text-2xl font-semibold mb-2">Army Management System</h3>
-      <p>
-        Developed a console-based Army Management System in C++. Managed soldiers, weapons, and resources using data structures and file handling. Learned object-oriented programming concepts and organized complex data efficiently.
-      </p>
-    </div>
+<div className="p-6 rounded-lg text-white cursor-pointer shadow-lg army-hover max-w-sm hover:scale-105 transition-transform duration-500">
+  <h3 className="text-2xl font-semibold mb-2">Army Management System</h3>
+  <p>
+    Developed a console-based Army Management System in C++. Managed soldiers, weapons, and resources using data structures and file handling. Learned object-oriented programming concepts and organized complex data efficiently.
+  </p>
+</div>
 
   </div>
 </section>
