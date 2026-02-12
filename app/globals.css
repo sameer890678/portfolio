@@ -47,16 +47,17 @@ body {
   background-position: 100% 0;
 }
 
-* Tic Tac Toe hover gradient */
+/* Tic Tac Toe hover gradient */
 .tictactoe-hover {
-  background: linear-gradient(90deg, #f97316, #8b5cf6, #3b82f6); /* orange → purple → blue */
-  background-size: 300% 300%;
-  transition: all 1.2s ease-in-out;
+  background: linear-gradient(270deg, #f97316, #8b5cf6, #3b82f6); /* orange → purple → blue */
+  background-size: 600% 600%; /* bigger size for smooth movement */
+  transition: all 1.5s ease-in-out;
 }
 
 .tictactoe-hover:hover {
-  background-position: 100% 0;
+  background-position: 100% 0; /* moves the gradient on hover */
 }
+
 
 /* Army Management hover gradient */
 .army-hover {
