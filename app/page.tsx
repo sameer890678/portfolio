@@ -92,8 +92,7 @@ export default function Home() {
     <a
       href="https://github.com/sameer890678"
       target="_blank"
-      className="flex items-center justify-center gap-2 px-4 py-3 rounded-full
-                 transform hover:scale-105 transition-all duration-300"
+      className="flex items-center justify-center gap-2 px-4 py-3 rounded-full transform hover:scale-105 transition-all duration-300"
       style={{
         background: "linear-gradient(to right, black, purple)"
       }}
@@ -105,8 +104,7 @@ export default function Home() {
     <a
       href="https://www.linkedin.com/in/sameer-hassan-974441284"
       target="_blank"
-      className="flex items-center justify-center gap-2 px-4 py-3 rounded-full text-white text-xs font-semibold
-                 transform hover:scale-105 transition-all duration-300"
+      className="flex items-center justify-center gap-2 px-4 py-3 rounded-full transform hover:scale-105 transition-all duration-300"
       style={{
         background: "linear-gradient(to right, blue, cyan)"
       }}
@@ -116,8 +114,7 @@ export default function Home() {
     {/* Email Button */}
 <a
   href="mailto:maliksameer890678@gmail.com"
-  className="flex items-center justify-center gap-2 px-4 py-3 rounded-full text-white text-xs font-semibold
-             transform hover:scale-105 transition-all duration-300"
+  className="flex items-center justify-center gap-2 px-4 py-3 rounded-full transform hover:scale-105 transition-all duration-300"
   style={{
     background: "linear-gradient(to right, red, blue)"
   }}
