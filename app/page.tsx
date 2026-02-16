@@ -86,7 +86,7 @@ export default function Home() {
 {/* Links Section */}
 <section className="py-20 px-4 bg-gray-800 text-center">
   <h2 className="text-4xl font-bold mb-6">Links</h2>
-  <div className="flex justify-center gap-6">
+  <div className="flex justify-center gap-6 flex-wrap">
 
     {/* GitHub Button */}
     <a
