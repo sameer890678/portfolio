@@ -86,7 +86,7 @@ export default function Home() {
 {/* Links Section */}
 <section className="py-20 px-4 bg-white text-center">
   <h2 className="text-4xl font-bold mb-6">Links</h2>
-  <div className="flex justify-center gap-6">
+  <div className="flex justify-center gap-6 flex-wrap">
 
     {/* GitHub Button */}
     <a
@@ -98,7 +98,7 @@ export default function Home() {
         background: "linear-gradient(to right, black, purple)"
       }}
     >
-      <FaGithub size={100} />
+      <FaGithub size={14} />
     </a>
 
     {/* LinkedIn Button */}
@@ -111,7 +111,7 @@ export default function Home() {
         background: "linear-gradient(to right, blue, cyan)"
       }}
     >
-      <FaLinkedin size={100} />
+      <FaLinkedin size={14} />
     </a>
     {/* Email Button */}
 <a
@@ -122,7 +122,7 @@ export default function Home() {
     background: "linear-gradient(to right, red, blue)"
   }}
 >
-  <FaEnvelope size={100} />
+  <FaEnvelope size={14} />
 </a>
 
 
