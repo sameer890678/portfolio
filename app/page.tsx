@@ -92,7 +92,7 @@ export default function Home() {
     <a
       href="https://github.com/sameer890678"
       target="_blank"
-      className="flex items-center justify-center gap-2 px-4 py-3 rounded-full text-white text-xs font-semibold
+      className="flex items-center justify-center gap-2 px-4 py-3 rounded-full
                  transform hover:scale-105 transition-all duration-300"
       style={{
         background: "linear-gradient(to right, black, purple)"
