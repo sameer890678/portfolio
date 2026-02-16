@@ -43,7 +43,7 @@ export default function Home() {
           {text}
           <span className="animate-pulse">|</span>
         </h1>
-        <p className="mt-15 md:text-xl text-gray-300 text-center max-w-xl">
+        <p className="mt-15 text-lg md:text-xl text-gray-300 text-center max-w-xl">
           Hi! I’m Sameer, a passionate Software engineering student learning modern web development.
         </p>
       </section>
