@@ -49,8 +49,8 @@ export default function Home() {
       </section>
 
       {/* About Section */}
-<section className="py-20 px-4 bg-white flex justify-center">
-  <div className="max-w-2xl text-center p-8 rounded-lg text-white about-hover">
+<section className="py-20 px-4 bg-grey-800 flex justify-center">
+  <div className="max-w-2xl text-center p-8 rounded-lg text-white">
     <h2 className="text-3xl font-bold mb-4">About Me</h2>
     <p className="text-lg">
       I’m a passionate Software Engineering student learning modern web development.
