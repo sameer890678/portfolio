@@ -36,7 +36,7 @@ export default function Home() {
   }, [messageIndex]);
 
   return (
-    <div className="bg-black text-white">
+    <div className="bg-yellow text-white">
       {/* Hero Section */}
       <section className="flex flex-col justify-center min-h-screen px-4">
         <h1 className="text-5xl md:text-6xl font-extrabold text-center bg-clip-text text-transparent bg-gradient-to-r from-purple-600 via-pink-600 to-yellow-600">
