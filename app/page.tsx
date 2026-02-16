@@ -98,7 +98,7 @@ export default function Home() {
         background: "linear-gradient(to right, black, purple)"
       }}
     >
-      <FaGithub size={14} />
+      <FaGithub size={17} />
     </a>
 
     {/* LinkedIn Button */}
@@ -111,7 +111,7 @@ export default function Home() {
         background: "linear-gradient(to right, blue, cyan)"
       }}
     >
-      <FaLinkedin size={14} />
+      <FaLinkedin size={17} />
     </a>
     {/* Email Button */}
 <a
@@ -122,7 +122,7 @@ export default function Home() {
     background: "linear-gradient(to right, red, blue)"
   }}
 >
-  <FaEnvelope size={14} />
+  <FaEnvelope size={17} />
 </a>
 
 
