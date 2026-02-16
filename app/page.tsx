@@ -36,10 +36,10 @@ export default function Home() {
   }, [messageIndex]);
 
   return (
-    <div className="bg-yellow text-white">
+    <div className="bg-black text-white">
       {/* Hero Section */}
       <section className="flex flex-col items-center justify-center min-h-screen px-4">
-        <h1 className="text-5xl md:text-6xl font-extrabold text-center bg-clip-text text-transparent bg-gradient-to-r from-purple-600 via-pink-600 to-yellow-600">
+        <h1 className="text-5xl font-extrabold text-center bg-clip-text text-transparent bg-gradient-to-r from-purple-600 via-pink-600 to-yellow-600">
           {text}
           <span className="animate-pulse">|</span>
         </h1>
