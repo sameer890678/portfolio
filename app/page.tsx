@@ -84,7 +84,7 @@ export default function Home() {
 </section>
 
 {/* Links Section */}
-<section className="py-20 px-4 bg-gray-800 text-center">
+<section className="py-20 px-4 bg-white text-center">
   <h2 className="text-4xl font-bold mb-6">Links</h2>
   <div className="flex justify-center gap-6 flex-wrap">
 
