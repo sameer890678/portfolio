@@ -39,11 +39,11 @@ export default function Home() {
     <div className="bg-black text-white">
       {/* Hero Section */}
       <section className="flex flex-col items-center justify-center min-h-screen px-4">
-        <h1 className="text-5xl md:text-6xl font-extrabold text-center bg-clip-text bg-gradient-to-r from-purple-600 via-pink-600 to-yellow-600">
+        <h1 className="text-5xl md:text-6xl font-extrabold text-center bg-clip-text text-transparent bg-gradient-to-r from-purple-600 via-pink-600 to-yellow-600">
           {text}
           <span className="animate-pulse">|</span>
         </h1>
-        <p className="mt-12 text-lg md:text-xl text-gray-300 text-center max-w-xl">
+        <p className="text-lg md:text-xl text-gray-300 text-center max-w-xl">
           Hi! I’m Sameer, a passionate Software engineering student learning modern web development.
         </p>
       </section>
