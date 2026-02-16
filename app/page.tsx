@@ -49,7 +49,7 @@ export default function Home() {
       </section>
 
       {/* About Section */}
-<section className="py-20 px-4 bg-grey-800 flex justify-center">
+<section className="py-20 px-4 bg-gray-800 flex justify-center">
   <div className="max-w-2xl text-center p-8 rounded-lg text-white about-hover">
     <h2 className="text-3xl font-bold mb-4">About Me</h2>
     <p className="text-lg">
@@ -61,7 +61,7 @@ export default function Home() {
 
       <section className="py-20 px-4 bg-black-800">
   <h2 className="text-3xl font-bold text-white text-center mb-10">Projects</h2>
-  <div className="grid grid-cols-1 md:grid-cols-2 gap-8 justify-items-center">
+  <div className="grid-cols-1 md:grid-cols-2 gap-8 justify-items-center">
     
    {/* Tic Tac Toe Project */}
 <div className="p-6 rounded-lg text-white cursor-pointer shadow-lg tictactoe-hover max-w-sm hover:scale-105 transition-transform duration-500">
