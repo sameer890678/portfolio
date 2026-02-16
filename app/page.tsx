@@ -44,7 +44,7 @@ export default function Home() {
           <span className="animate-pulse">|</span>
         </h1>
         <p className="mt-15 text-lg md:text-xl text-gray-300 text-center">
-          Hi! I’m Sameer, a passionate Software engineering student learning modern web development.
+          Hi! I’m Sameer, a passionate Software engineering student learning modern web development. Im studying in UOL where im getting every skill and knowledge that i require.
         </p>
       </section>
 
