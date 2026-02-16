@@ -36,7 +36,7 @@ export default function Home() {
   }, [messageIndex]);
 
   return (
-    <div className="bg-black text-white">
+    <div className="bg-white text-white">
       {/* Hero Section */}
       <section className="flex flex-col items-center justify-center min-h-screen px-4">
         <h1 className="text-5xl md:text-6xl font-extrabold text-center bg-clip-text text-transparent bg-gradient-to-r from-purple-600 via-pink-600 to-yellow-600">
@@ -50,7 +50,7 @@ export default function Home() {
 
       {/* About Section */}
 <section className="py-20 px-4 bg-gray-800 flex justify-center">
-  <div className="max-w-2xl text-center p-8 rounded-lg text-white about-hover">
+  <div className="max-w-2xl text-center p-8 rounded-lg text-white shadow-lg about-hover">
     <h2 className="text-3xl font-bold mb-4">About Me</h2>
     <p className="text-lg">
       I’m a passionate Software Engineering student learning modern web development.
