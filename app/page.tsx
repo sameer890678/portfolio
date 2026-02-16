@@ -50,7 +50,7 @@ export default function Home() {
 
       {/* About Section */}
 <section className="py-20 px-4 bg-white flex justify-center">
-  <div className="max-w-2xl text-center p-8 rounded-lg text-white shadow-lg about-hover">
+  <div className="max-w-2xl text-center p-8 rounded-lg text-white shadow-2x1 about-hover">
     <h2 className="text-3xl font-bold mb-4">About Me</h2>
     <p className="text-lg">
       I’m a passionate Software Engineering student learning modern web development.
