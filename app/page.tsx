@@ -65,7 +65,7 @@ export default function Home() {
   <div className="grid grid-cols-1 md:grid-cols-2 gap-20 justify-items-center">
     
    {/* Tic Tac Toe Project */}
-<div className="p-6 rounded-lg text-white shadow-lg tictactoe-hover max-w-sm hover:scale-105 transition-transform">
+<div className="p-6 rounded-lg text-white shadow-lg tictactoe-hover max-w-sm hover:scale-105 transition-transform duration-2000">
   <h3 className="text-2xl font-semibold mb-2">Tic Tac Toe Game</h3>
   <p>
     Built a 2-player Tic Tac Toe game in C++. Learned about arrays, loops, functions, and game logic implementation. Applied programming concepts to create an interactive console game.
