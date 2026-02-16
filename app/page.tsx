@@ -62,7 +62,7 @@ export default function Home() {
 {/*Projetcs*/}
       <section className="py-20 px-4 bg-black-800">
   <h2 className="text-3xl font-bold text-white text-center mb-10">Projects</h2>
-  <div className="grid grid-cols-1 md:grid-cols-2 justify-items-center">
+  <div className="grid grid-cols-1 md:grid-cols-2 gap-20">
     
    {/* Tic Tac Toe Project */}
 <div className="p-6 rounded-lg text-white cursor-pointer shadow-lg tictactoe-hover max-w-sm hover:scale-105 transition-transform duration-500">
