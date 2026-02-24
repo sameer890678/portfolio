@@ -27,7 +27,7 @@ body {
 
 /* Smooth gradient background animation */
 .smooth-gradient {
-  background: linear-gradient(90deg, #f87171, #a78bfa, #3b82f6);
+  background: linear-gradient(90deg, #032b81, #5a40a9, #366f05);
   background-size: 300% 300%;
   transition: all 1s ease-in-out;
 }
