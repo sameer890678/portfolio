@@ -50,7 +50,7 @@ export default function Home() {
       </section>
 
       {/* About Section */}
-<section className="py-20 px-4 bg-gradient-to-r from-blue-800 via-yellow-800 to-red-800 flex justify-center">
+<section className="py-20 px-4 bg-gradient-to-r from-blue-800 via-yellow-500 to-red-500 flex justify-center">
   <div className="max-w-2xl text-center p-8 rounded-lg text-white about-hover">
     <h2 className="text-3xl font-bold mb-4">About Me</h2>
     <p className="text-lg">
