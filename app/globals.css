@@ -38,7 +38,7 @@ body {
 
 /* Smooth gradient background for hover */
 .about-hover {
-  background: linear-gradient(90deg, #f97316, #8b5cf6, #3b82f6);
+  background: linear-gradient(90deg, #032b81, #5a40a9, #366f05);
   background-size: 300% 300%;
   transition: all 1.5s ease-in-out;
 }
