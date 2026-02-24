@@ -3,6 +3,7 @@
 import { useState, useEffect } from "react";
 import { FaGithub, FaLinkedin, FaEnvelope, FaPhone } from "react-icons/fa";
 
+
 export default function Home() {
   const messages = [
     "Welcome to Sameer's Website",
