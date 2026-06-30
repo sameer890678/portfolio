@@ -60,7 +60,7 @@ body {
 
 /* ISSA Time complexity hover gradient */
 .issa-hover {
-  background: linear-gradient(270deg, #070503, #5e5b66, #ffffff); /* orange → purple → blue */
+  background: linear-gradient(270deg, #ccccc3, #5e5b66, #c0b0b0); /* orange → purple → blue */
   background-size: 600% 600%; /* bigger size for smooth movement */
   transition: all 1.5s ease-in-out;
 }
