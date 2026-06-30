@@ -15,7 +15,7 @@ function Projects() {
 <div className="p-6 rounded-lg text-white shadow-lg issa-hover max-w-sm hover:scale-105 transition-transform duration-500">
   <h3 className="text-2xl font-semibold mb-2">Optimized ISSA Selection Sort using ASSM</h3>
   <p>
-    Designed and implemented the ASSM (Advanced Selection Sort with MERGE) in C++ to optimize the ISSA Selection Sort algorithm. Improved its worst-case and average-case time complexity from O(n²) to O(n log n) through algorithm optimization and efficient sorting logic, resulting in significantly better performance while maintaining accurate sorting results.
+    Designed and implemented the ASSM (Adaptive Selection Sort with MERGE) in C++ to optimize the ISSA Selection Sort algorithm. Improved its worst-case and average-case time complexity from O(n²) to O(n log n) through algorithm optimization and efficient sorting logic, resulting in significantly better performance while maintaining accurate sorting results.
   </p>
 </div>
 
