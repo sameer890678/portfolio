@@ -11,6 +11,14 @@ function Projects() {
   </p>
 </div>
 
+{/* ISSA Time complexity */}
+<div className="p-6 rounded-lg text-white shadow-lg issa-hover max-w-sm hover:scale-105 transition-transform duration-500">
+  <h3 className="text-2xl font-semibold mb-2">Optimized ISSA Selection Sort using ASSM</h3>
+  <p>
+    Implemented an optimized version of the ISSA Selection Sort algorithm using Assembly language. Improved the time complexity of the sorting algorithm by leveraging low-level programming techniques. Gained insights into performance optimization and assembly language programming.
+  </p>
+</div>
+
     {/* Army Management Project */}
 <div className="p-6 rounded-lg text-white shadow-lg army-hover max-w-sm hover:scale-105 transition-transform duration-500">
   <h3 className="text-2xl font-semibold mb-2">Army Management System</h3>

@@ -77,7 +77,7 @@ export default function Home() {
 <div className="p-6 rounded-lg text-white shadow-lg issa-hover max-w-sm hover:scale-105 transition-transform duration-500">
   <h3 className="text-2xl font-semibold mb-2">Optimized ISSA Selection Sort using ASSM</h3>
   <p>
-    Developed the ASSM (Advanced Selection Sort Method) to optimize the ISSA Selection Sort algorithm, improving its worst-case and average-case time complexity from O(n²) to O(n log n). This project demonstrates algorithm optimization, performance analysis, and efficient sorting techniques while maintaining accurate sorting results.
+    Implemented an optimized version of the ISSA Selection Sort algorithm using Assembly language. Improved the time complexity of the sorting algorithm by leveraging low-level programming techniques. Gained insights into performance optimization and assembly language programming.
   </p>
 </div>
 
