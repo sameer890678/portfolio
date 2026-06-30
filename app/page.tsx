@@ -111,7 +111,7 @@ export default function Home() {
 
     {/* LinkedIn Button */}
     <a
-      href="https://www.linkedin.com/in/sameer-hassan-974441284"
+      href="https://www.linkedin.com/in/sameer-hassan-uol"
       target="_blank"
       className="flex items-center justify-center gap-2 px-4 py-3 rounded-full transform hover:scale-105 transition-all duration-300"
       style={{
