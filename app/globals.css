@@ -58,6 +58,20 @@ body {
   background-position: 100% 0; /* moves the gradient on hover */
 }
 
+/* ISSA Time complexity hover gradient */
+.issa-hover {
+  background: linear-gradient(270deg, #070503, #5e5b66, #ffffff); /* orange → purple → blue */
+  background-size: 600% 600%; /* bigger size for smooth movement */
+  transition: all 1.5s ease-in-out;
+}
+
+.issa-hover:hover {
+  background-position: 100% 0; /* moves the gradient on hover */
+}
+
+.tictactoe-hover:hover {
+  background-position: 100% 0; /* moves the gradient on hover */
+}
 
 /* Army Management hover gradient */
 .army-hover {
