@@ -64,7 +64,7 @@ export default function Home() {
 <section className="py-20 px-4 bg-black text-center">
 <Link
   href="/Projects"
-  className="px-6 py-3 rounded-full text-white font-semibold hover:scale-105 transition-all duration-300"
+  className="px-6 py-3 rounded-full text-white font-semibold transform hover:scale-105 transition-all duration-300"
   style={{
     background: "linear-gradient(to right, purple, blue)"
   }}
