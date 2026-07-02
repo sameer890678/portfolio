@@ -61,6 +61,7 @@ export default function Home() {
 </section>
 
 {/*Projetcs*/}
+<section className="py-20 px-4 bg-gray-800 text-center">
 <Link
   href="/Projects"
   className="px-6 py-3 rounded-full text-white font-semibold hover:scale-105 transition-all duration-300"
@@ -70,6 +71,7 @@ export default function Home() {
 >
   View Projects
 </Link>
+</section>
 
 {/* Links Section */}
 <section className="py-20 px-4 bg-gray-800 text-center">
