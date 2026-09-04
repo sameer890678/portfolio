@@ -6,10 +6,13 @@ import FeaturedProjects from "@/app/components/FeaturedProjects";
 import Skills from "@/app/components/Skills";
 import Contact from "@/app/components/Contact";
 import Footer from "@/app/components/Footer";
+import Navbar from "@/app/components/Navbar";
 
 export default function Home() {
   return (
     <main className="min-h-screen bg-[#050505] text-white overflow-hidden">
+      <Navbar />
+
       <Hero />
       <About />
       <FeaturedProjects />
