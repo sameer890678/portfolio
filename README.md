@@ -19,24 +19,6 @@ journey as a Software Engineering student at the University of Lahore.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/portfolio.git
-```
-
-2. Install dependencies:
-```bash
-npm install
-```
-
-3. Run the development server:
-```bash
-npm run dev
-```
-
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## 📂 Projects Featured
 
